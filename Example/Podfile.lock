@@ -1,0 +1,16 @@
+PODS:
+  - AlertyNetwork (0.1.0)
+
+DEPENDENCIES:
+  - AlertyNetwork (from `../`)
+
+EXTERNAL SOURCES:
+  AlertyNetwork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AlertyNetwork: a0b8da7648c50cea9f478a37470955454c3199d1
+
+PODFILE CHECKSUM: 17e4a8cc9dd55a1e0d7ea56bf85a3ea0454e435e
+
+COCOAPODS: 1.9.3

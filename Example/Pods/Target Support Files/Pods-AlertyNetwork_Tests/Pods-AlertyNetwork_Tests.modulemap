@@ -1,0 +1,6 @@
+framework module Pods_AlertyNetwork_Tests {
+  umbrella header "Pods-AlertyNetwork_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

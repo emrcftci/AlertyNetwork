@@ -1,0 +1,22 @@
+{
+  "name": "AlertyNetwork",
+  "version": "0.1.0",
+  "summary": "A short description of AlertyNetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/emrcftci/AlertyNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "emrcftci": "emreciftci541@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/emrcftci/AlertyNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AlertyNetwork/Classes/**/*"
+}
