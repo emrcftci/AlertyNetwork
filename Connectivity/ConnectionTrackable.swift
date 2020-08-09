@@ -5,6 +5,8 @@
 //  Created by Emre Çiftçi on 9.08.2020.
 //
 
+import Dispatch
+
 public protocol ConnectionTrackable {
 
   func track(with delegate: TrackableDelegate)

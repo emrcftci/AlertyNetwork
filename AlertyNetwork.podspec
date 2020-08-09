@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/emrcftci/AlertyNetwork'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'emrcftci' => 'emreciftci541@gmail.com' }
-  s.source           = { :git => 'https://github.com/emrcftci/AlertyNetwork.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/emrcftci/AlertyNetwork.git', :tag => 1.0.0 }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'

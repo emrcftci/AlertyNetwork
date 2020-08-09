@@ -65,7 +65,7 @@ public final class ConnectivityService: Shareable {
 
   private var fetchedIPv4Addresses: Set<String> {
     didSet {
-      if (fetchedIPv4Addresses.isNotEmpty) && (fetchedIPv4Addresses != oldValue) {
+      if (!fetchedIPv4Addresses.isEmpty) && (fetchedIPv4Addresses != oldValue) {
         notifier.enqueue(name: .ipv4AddressChanged, object: self, userInfo: [.ipv4Addresses: fetchedIPv4Addresses])
       }
     }
