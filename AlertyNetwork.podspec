@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AlertyNetwork'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'An awful library created to show alert messages depending network connectivity.'
 
 # This description is used to generate tags and improve search results.
