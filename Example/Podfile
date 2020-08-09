@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AlertyNetwork_Tests' do
+  pod 'AlertyNetwork', :path => '../'
+  
+  
+end
